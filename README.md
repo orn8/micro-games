@@ -16,12 +16,12 @@ micro:games is a simple game hub for the micro:bit. Built with [MakeCode](https:
 
 ## How to Play
 
-* ### MICRO:INVADERS
+* ### microINVADERS
 > Tilt the micro:bit left or right to move the ship, and press B to shoot the enemies. Enemies come in waves of 7, each with more health than the one before.
 
 # Usage
 
-To use this repo, get the latest [release](https://github.com/orn8/micro-games/releases) of the gamepack and load it in your micro:bit.
+To use this repo, get the latest [release](https://github.com/orn8/micro-games/releases) of the `Source Code` and unzip it, then go to the `hex` folder and load in any game you like.
 
 ---
 
