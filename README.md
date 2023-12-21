@@ -21,7 +21,7 @@ micro:games is a simple game hub for the micro:bit. Built with [MakeCode](https:
 
 # Usage
 
-To use this repo, get the latest [release](https://github.com/orn8/micro-games/releases) of the `Source Code` and unzip it, then go to the `hex` folder and load in any game you like.
+To use this repo, get the latest [release](https://github.com/orn8/micro-games/releases) of the `Source code` and unarchive it, then go to the `hex` folder and load in any game you like.
 
 ---
 
