@@ -56,5 +56,5 @@ while True:
         if a_clicks >= total_clicks // 2 and b_clicks >= total_clicks // 2:
             end_time = running_time()
             score = int((end_time - start_time) / 1000)  # Convert to seconds
-            display.scroll("SCORE: " + str(score))
+            display.scroll("TIME: " + str(score), delay=100)
             break
