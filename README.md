@@ -19,7 +19,7 @@ micro:games is a simple game hub for the micro:bit. Built with [MakeCode](https:
 * ### microINVADERS
 > Tilt the micro:bit left or right to move the ship, and press B to shoot the enemies. Enemies come in waves of 7, each with more health than the one before.
 
-* ### microRACE
+* ### microDODGE
 > Dodge obstacles from ahead by using A and B to move left and right. Obstacles spawn and come faster as time moves on.
 
 # Usage
