@@ -27,7 +27,11 @@ micro:games is a simple game hub for the micro:bit. Built with [MakeCode](https:
 
 # Usage
 
-To use this repo, get the latest [release](https://github.com/orn8/micro-games/releases) of the `Source code` and unarchive it, then go to the `hex` folder and load in any game you like.
+### micro:bit
+Get the latest [release](https://github.com/orn8/micro-games/releases) of the `Source code` and unarchive it, then go to the `hex` folder and load in any game you like on the micro:bit.
+
+### Browser
+Download the `*.ts` or `*.py` program from the [code](https://github.com/orn8/micro-games/tree/main/code) folder in the repo, then go to micro:bit [TypeScript](https://makecode.microbit.org/) or [Python](https://pyrhon.microbit.org/) interpreter (whichever necessary) and load the game file in, then start the micro:bit simulator.
 
 ---
 
