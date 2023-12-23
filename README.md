@@ -22,6 +22,9 @@ micro:games is a simple game hub for the micro:bit. Built with [MakeCode](https:
 * ### microDODGE
 > Dodge obstacles from ahead by using A and B to move left and right. Obstacles spawn and come faster as time moves on.
 
+* ### microRACE
+> Pick the number of total clicks rquired to win using A and B, then spam A and B to get to the end and win the race!
+
 # Usage
 
 To use this repo, get the latest [release](https://github.com/orn8/micro-games/releases) of the `Source code` and unarchive it, then go to the `hex` folder and load in any game you like.
