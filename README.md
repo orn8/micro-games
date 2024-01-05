@@ -23,7 +23,7 @@ micro:games is a simple game hub for the micro:bit. Built with [MakeCode](https:
 > Dodge obstacles from ahead by using A and B to move left and right. Obstacles spawn and come faster as time moves on.
 
 * ### microRACE
-> Pick the number of total clicks required to win using A and B, then spam A and B to get to the end and "*win the race*". You are timed on how long you take.
+> Pick the number of total clicks required to win using A and B, then spam A and B to get to the end and win the race. You are timed on how long you take, which is eventually displayed as your score in the end.
 
 # Usage
 
