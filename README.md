@@ -23,7 +23,7 @@ micro:games is a simple game hub for the micro:bit. Built with [MakeCode](https:
 > Dodge obstacles from ahead by using A and B to move left and right. Obstacles spawn and come faster as time moves on.
 
 * ### microRACE
-> Pick the number of total clicks required to win using A and B, then spam A and B to get to the end and win the race. You are timed on how long you take, which is eventually displayed as your score in the end.
+> Pick the number of total clicks required to win using A and B, then spam A and B to get to the end and win the race. You are timed on how long you take, which is eventually displayed as your score at the end.
 
 # Usage
 
@@ -31,7 +31,7 @@ micro:games is a simple game hub for the micro:bit. Built with [MakeCode](https:
 Get the latest [release](https://github.com/orn8/micro-games/releases) of the `Source code` and unarchive it, then go to the `hex` folder and load in any game you like on the micro:bit.
 
 ### Browser
-Download the `*.ts` or `*.py` program from the [code](https://github.com/orn8/micro-games/tree/main/code) folder in the repository, then go to the micro:bit [TypeScript](https://makecode.microbit.org/) or [Python](https://python.microbit.org/v/beta) interpreter (whichever necessary) and load the game file in, then start the micro:bit simulator. 
+Download the necessary `*.ts` or `*.py` program required from the [code](https://github.com/orn8/micro-games/tree/main/code) folder in the repository. Go to the micro:bit [TypeScript](https://makecode.microbit.org/) or [Python](https://python.microbit.org/v/beta) interpreter (whichever necessary) and load the game file in and start the micro:bit simulator. 
 
 ---
 
